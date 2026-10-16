@@ -1,1 +1,2 @@
-DEFAULT_CITY = Seoul, KR
+DEFAULT_CITY=Seoul,KR
+UNITS=metric
